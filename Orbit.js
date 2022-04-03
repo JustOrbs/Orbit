@@ -54,8 +54,6 @@ class PVP3{
     G3 = "";
 }
 
-client.login("UyUPArZyir-3JysyznA8uW8zs5dyzuVE");
-
 //Creating the menus and buttons
 //
 //
